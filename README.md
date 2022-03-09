@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi Hello I am Pritesh Chaudhari...!👋
 
-<!--
-**Priteshsc/Priteshsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Chrislyn Software & Solutions | HTML5, CSS3, Bootstrap4, Javascript, Core Php. 
+- 🌱 I’m currently learning Codeigniter4 and ReactJs
+- 👯 I’m looking to collaborate on other open source contributor
+- 💬 Ask me about HTMl5, CSS3, Bootstrap4, Core Php
+- 📫 How to reach me: priteshc100@gmail.com
+- ⚡ Fun fact: Listning song | Editing Video | Capture images | Traveling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
