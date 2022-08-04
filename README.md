@@ -3,7 +3,7 @@ Hi Hello I am Pritesh Chaudhari...!👋
   <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on Chrislyn Software & Solutions | HTML5, CSS3, Bootstrap4, Javascript, Core Php. 
-- 🌱 I’m currently learning Codeigniter4 and ReactJs
+- 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on other open source contributor
 - 💬 Ask me about HTMl5, CSS3, Bootstrap4, Core Php
 - 📫 How to reach me: priteshc100@gmail.com
